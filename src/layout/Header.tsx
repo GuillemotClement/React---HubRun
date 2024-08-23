@@ -1,6 +1,6 @@
 export default function Header() {
   return (
-    <header className="flex flex-row items-center justify-between border-b px-6 py-3 shadow-lg">
+    <header className="flex flex-row items-center justify-between border-b px-6 py-3 shadow">
       <a className="flex items-center text-2xl" href="/">
         <i className="fa-solid fa-medal mr-2"></i>
         <p>HubRun</p>
